@@ -1,8 +1,8 @@
-<h1>Files Textmate Bundle</h1>
+h1. Files Textmate Bundle
 
 Sometimes when you work with your teammates remotely you may want to quickly paste current file name and location into a chat room. Here's a simple command that takes care of that. It simply copies current file path relative to your project root into the clipboard, nothing more than that. The default key binding is command-option-p.
 
-<h2>Installation</h2>
+h2. Installation
 
 Here's how you can install it:
 
@@ -11,4 +11,4 @@ Here's how you can install it:
   git clone http://github.com/bgipsy/files-tmbundle.git Files.tmbundle
 </pre>
 
-And the story: http://complicated-simplicity.com/2010/08/quickly-copy-current-file-path-in-textmate/
+And the story: "http://complicated-simplicity.com/2010/08/quickly-copy-current-file-path-in-textmate":http://complicated-simplicity.com/2010/08/quickly-copy-current-file-path-in-textmate
